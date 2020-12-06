@@ -1,0 +1,1 @@
+print(nor[i],nor[i+1],nor[i+2],fail,complate)
